@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+output: html_document
+date: "2023-12-19"
+---
+$$\frac{1}{2}$$
+
+
+
+$$\log{\frac{\hat{p_i}}{1-\hat{p_i}}}=\beta_0 + \beta_1x1+\beta_2x2+\beta_3x3+\beta_4x4+\beta_5x5$$
